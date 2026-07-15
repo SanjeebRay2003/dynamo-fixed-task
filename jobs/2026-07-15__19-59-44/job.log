@@ -1,0 +1,5 @@
+Skipping image OS validation for hb__dynamo-log-report: docker inspect returned 1
+Trial log-report__Ddh7V6X failed: No reward file found at jobs\2026-07-15__19-59-44\log-report__Ddh7V6X\verifier\reward.txt or jobs\2026-07-15__19-59-44\log-report__Ddh7V6X\verifier\reward.json
+Failed to download artifact '/app/out.json' (best-effort)
+Exception RewardFileNotFoundError is in exclude_exceptions, not retrying
+Not retrying trial because the exception is not in include_exceptions or the maximum number of retries has been reached
